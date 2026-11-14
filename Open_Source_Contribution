@@ -1,0 +1,20 @@
+# How to Issue and Return Books
+
+## Introduction
+How a librarian issues and returns
+books in the Library System.
+
+## Issuing a Book
+1. Search the book by title or ID.
+2. Confirm the book is available.
+3. Enter member ID, click Issue.
+4. Issue and due dates are saved.
+
+## Returning a Book
+1. Enter the book ID or member ID.
+2. Click Return.
+3. Availability is updated and any
+   late fine is calculated.
+
+## Conclusion
+These steps keep records accurate.
